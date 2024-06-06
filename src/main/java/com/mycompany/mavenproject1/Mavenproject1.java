@@ -26,6 +26,7 @@ public class Mavenproject1 {
             result = add(result, a);
         }
         return result;
+         
     }
 
     // Method untuk pembagian (dengan code smell: no exception handling for division by zero)
